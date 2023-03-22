@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - including the main.h
- * description - showing how an main.h can be include
- * return 0
+ * main - Entry point
+ * Description: A C program that prints with printf function
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
