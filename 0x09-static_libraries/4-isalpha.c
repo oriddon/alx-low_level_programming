@@ -1,6 +1,5 @@
 #include "main.h"
 #include <ctype.h>
-
 /**
  * _isalpha - function to check if character is lowercase
  *
@@ -8,7 +7,6 @@
  *
  * Return: returns 1 if 'c' is lowercase otherwise always 0 (Success)
 */
-
 int _isalpha(int c)
 {
 if (isalpha(c))
